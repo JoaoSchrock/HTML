@@ -1,0 +1,51 @@
+"state","statename","capital","year","order"
+"AL","Alabama","Montgomery",1819,22
+"AK","Alaska","Juneau",1959,49
+"AZ","Arizona","Phoenix",1912,48
+"AR","Arkansas","Little Rock",1836,25
+"CA","California","Sacramento",1850,31
+"CO","Colorado","Denver",1876,38
+"CT","Connecticut","Hartford",1788,5
+"DE","Delaware","Dover",1787,1
+"FL","Florida","Tallahassee",1845,27
+"GA","Georgia","Atlanta",1788,4
+"HI","Hawaii","Honolulu",1959,50
+"ID","Idaho","Boise",1890,43
+"IL","Illinois","Springfield",1818,21
+"IN","Indiana","Indianapolis",1816,19
+"IA","Iowa","Des Moines",1846,29
+"KS","Kansas","Topeka",1861,34
+"KY","Kentucky","Frankfort",1792,15
+"LA","Louisiana","Baton Rouge",1812,18
+"ME","Maine","Augusta",1820,23
+"MD","Maryland","Annapolis",1788,7
+"MA","Massachusetts","Boston",1788,6
+"MI","Michigan","Lansing",1837,26
+"MN","Minnesota","St. Paul",1858,32
+"MS","Mississippi","Jackson",1817,20
+"MO","Missouri","Jefferson City",1821,24
+"MT","Montana","Helena",1889,41
+"NE","Nebraska","Lincoln",1867,37
+"NV","Nevada","Carson City",1864,36
+"NH","New Hampshire","Concord",1788,9
+"NJ","New Jersey","Trenton",1787,3
+"NM","New Mexico","Santa Fe",1912,47
+"NY","New York","Albany",1788,11
+"NC","North Carolina","Raleigh",1789,12
+"ND","North Dakota","Bismark",1889,39
+"OH","Ohio","Columbus",1803,17
+"OK","Oklahoma","Oklahoma City",1907,46
+"OR","Oregon","Salem",1859,33
+"PA","Pennsylvania","Harrisburg",1787,2
+"RI","Rhode Island","Providence",1790,13
+"SC","South Carolina","Columbia",1788,8
+"SD","South Dakota","Pierre",1889,40
+"TN","Tennessee","Nashville",1796,16
+"TX","Texas","Austin",1845,28
+"UT","Utah","Salt Lake City",1896,45
+"VT","Vermont","Montpelier",1791,14
+"VA","Virginia","Richmond",1788,10
+"WA","Washington","Olympia",1889,42
+"WV","West Virginia","Charleston",1863,35
+"WI","Wisconsin","Madison",1848,30
+"WY","Wyoming","Cheyenne",1890,40

@@ -1,0 +1,22 @@
+User Notes for Zip Files Downloaded from CodeAve.com
+
+The file(s) contained in this and any zip file downloaded from
+CodeAve.com essentially work all the same way.
+
+To ensure consistency between the examples available online and the ones
+contained in the zip file you just downloaded it is necessary to
+either place the top.inc and bottom.inc in the same directory or
+remove the <!--#include file="top.inc"--> and <!--#include file="bottom.inc"-->
+from the .asp files.  (This is so there is no editing between the "live" version
+and the downloadable version)
+
+If there is an Access db inside this zip file it also needs to
+reside in the same directory as the .asp file.
+
+Bugs (if any) should be mailed to
+info@codeave.com
+(Please list the name of the file that the error
+message occurred on and the specific error that occurred)
+
+If you find any of the code at CodeAve.com useful 
+please pass the word on.  
