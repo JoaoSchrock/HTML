@@ -1,0 +1,53 @@
+The all in one counter.
+
+
+
+This counter displays Total Visits, people currently online, 
+
+and the time / date that the user logged on. It uses a global.asa file to run. 
+
+
+After unzipping,
+
+install the global.asa file and the Counter.asp file in the SAME DIRECTORY.
+
+You must make sure that whatever directory you install to, can run applications. 
+
+You can set the properties of the directory up in Internet Services Manager. 
+
+I would advise setting up a new directory and not stomping on your default global.asa file
+
+in your wwwroot directory.
+
+You can cut and paste the code from Counter.asp and install in your page anywhere you want.
+
+I built a little table that looks cool but change it as you wish.
+
+
+Depending on your web page background colors (which you can change the colors of the table 
+
+I built for this counter in the Counter.asp file) using the <!--#include file="Counter.asp"--> option in 
+
+your ASP page works beautifully to make this counter work for you.
+
+
+
+I set the session timeout to 30 minutes so it should stop "not so nice people"
+
+from clicking up endless false hits on you webpage (if that is a possible problem for anybody)
+
+I'm always trying to think of new ideas to help people with their websites.
+
+
+If you have any problems post a question to this website as I check quite often.
+
+
+
+Enjoy!!!
+
+And remember if you use and like this script vote for it on this website.
+
+
+
+
+
