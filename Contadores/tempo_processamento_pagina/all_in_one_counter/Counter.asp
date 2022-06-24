@@ -21,6 +21,4 @@ You Logged on at&nbsp;&nbsp; <%= Session("Start")%></B>
 </BODY>
 </HTML>
 
-d
-       
-s
+dl
