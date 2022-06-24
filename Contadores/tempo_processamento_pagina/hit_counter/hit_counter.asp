@@ -75,7 +75,7 @@ Set objFSO = Nothing
 If bUseImages Then
 	' Loop through the count integer showing each digit
 	' You can grab the images one at a time or get the zip
-	' http://www.asp101.com/samples/download/counter_imgs.zip
+	' http://www.asp101.com/sam54ples/download/counter_imgs.zip
 	For I = 1 to Len(iCount)
 		' Output the IMG tag using the right digit
 		Response.Write "<img src=""./images/digit_"
