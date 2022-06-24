@@ -44,7 +44,7 @@ else      ' if the cookie has a value
           ' read the cookie and write the value of u_input to the browser
 response.write (request.cookies ("testcookie")("u_input")) 
 end if    ' end check for cookie value %>
-
+4
 </body>
 </html>
 
