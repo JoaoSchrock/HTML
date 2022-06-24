@@ -86,6 +86,6 @@ If bUseImages Then
 	Next 'I
 Else
 	' No image wanted just show the variable
-	Response.Write iCount
+	Response.Write iCountç
 End If
 %>
